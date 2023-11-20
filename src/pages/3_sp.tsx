@@ -257,7 +257,7 @@ export default function Third_SP() {
 						<div className='main-des-title'>Los estadounidenses mayores de 64 años ahora pueden calificar para la tarjeta FLEX de $3600 en 2023. ¡Así es como!</div>
 						<img className='topic-img-5' src = {Head_bg} alt = "head"/>
 						<div className='main-des-5'>Los estadounidenses mayores de 64 años pueden precalificar para la tarjeta Flex Spending Card 2023 que les otorga hasta $3600. Las personas mayores pueden usar los fondos para servicios dentales o de la vista, comestibles, alquiler, facturas de servicios públicos, medicamentos y más.</div>
-						<div className='main-des-5' style = {{marginTop:"1rem"}}><b>La oportunidad de actualizar sus beneficios finaliza el 31 de marzo</b> por lo tanto, es mejor llamar y bloquear su Tarjeta Flex mientras aún esté disponible.</div>
+						<div className='main-des-5' style = {{marginTop:"1rem"}}><b>La oportunidad de actualizar sus beneficios finaliza el 7 de diciembre</b> por lo tanto, es mejor llamar y bloquear su Tarjeta Flex mientras aún esté disponible</div>
 					</div>
 					<div className='survey'>
 					<div className='quiz-5' id='btn'>{quiz}</div>
@@ -278,9 +278,9 @@ export default function Third_SP() {
 						<div className='top-description-5'>¡Haga Una <b>Llamada Rápida</b> Para Reclamar Su Tarjeta Flex!</div>
 						<div className='spots-count'>Lugares restantes: 4</div>
 						<div className='tap-direction-span'>👇 TOCA ABAJO PARA LLAMAR 👇</div>
-						<a href = "tel:+18587798335">
+						<a href = "tel:+18666570134">
 							<div className='call-btn' onClick={handleCall}>
-								CALL (858) 779-8335
+							CALL (866) 657-0134
 							</div>
 						</a>
 						<div className='sub-title-span'>Nosotras Hemos Reservado Tu Lugar</div>
