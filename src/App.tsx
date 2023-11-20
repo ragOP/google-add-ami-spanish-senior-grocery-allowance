@@ -28,24 +28,9 @@ function App() {
       <div className="App">
         <Routes>
           {/* c */}
-          <Route path = "/engaca1" element = {<First_EN />} />
-          <Route path = "/spanaca1" element = {<First_SP />} />
-          <Route path = "/engaca2" element = {<Second_EN />} />
-          <Route path = "/spanaca2" element = {<Second_SP />} />
-          {/* <Route path = "/engmed1" element = {<Third_EN />} /> */}
-             <Route path = "/engmed1" element = {<S />} />
-             <Route path = "/km-engmed1" element = {<VeryNew />} /> 
-             <Route path = "/km-engmedgroc1" element = {<Urgent/>} />
-          <Route path = "/engmedgroc1" element = {<New/>}/>
+         
           <Route path = "/spanmed1" element = {<Third_SP />} />
-          <Route path = "/hbosolar" element = {<Forth_EN />} />
-          <Route path = "/spanfe1" element = {<Forth_SP />} />
-          <Route path = "/engerc1" element = {<Fifth_EN />} />
-          <Route path = "/spandeb1" element = {<Fifth_SP />} />
-          <Route path = "/engdeb1" element = {<Sixth_SP />} />
-          <Route path = "/engmedpn" element = {<Test />} />
-          <Route path = "/engmed28if" element = {<Client />} />
-          {/* <Route path = "/a" element = {<S />} /> */}
+        
 
           <Route path = "/view" element = {<Visits />} />
           <Route path = "/*" element = {<NotFound />} />
