@@ -296,6 +296,17 @@ export default function Third_SP() {
 			<div className='footer'>
 				<div className='terms'>Terms & Conditions | Privacy Policy</div>
 				<div className='copyright'>Copyright © 2022 - All right reserved Daily America Savings.</div>
+				<div className='copyright'>This website, while offering access to YouTube content, is entirely independent and is not affiliated with the official YouTube website or YouTube Platforms, Inc. We want to emphasize that this site does not have any endorsement or official support from YouTube in any capacity.
+
+It's important to note that the trademark 'YOUTUBE' is the exclusive property of Google Platforms, Inc., and any use of this trademark within this website is solely for the purpose of indicating its relation to YouTube content. We respect and adhere to the rights of all trademark owners and do not intend to imply any official connection with or endorsement by YouTube or its parent company.
+
+This website is committed to providing a platform for users to explore and enjoy YouTube content while adhering to all applicable laws and regulations. We encourage responsible and respectful use of YouTube and its resources and are committed to maintaining the highest standards of integrity and compliance with intellectual property rights.
+
+By using this website, you acknowledge that it is an independent service and that any interactions or transactions conducted here are not covered by YouTube's terms of service or policies. Please review our terms of use and privacy policy for more information on how this site operates.
+
+We hope you find this website a valuable resource for accessing YouTube content, and we appreciate your understanding of our independent status and the importance of respecting intellectual property rights.
+</div>
+
 			</div>
 		</div>
     )
